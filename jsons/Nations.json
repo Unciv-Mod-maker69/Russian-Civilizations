@@ -25,9 +25,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Moscow","Q'Leningrad","Q'Novgorod","Q'Rostov","Q'Kiev","Q'Sverdlovsk","Q'","Q'Almaty","Q'Vladivostok",
-			"Q'Taskent","Q'Chelyabinsk","Q'Krasnoyarsk","Q'Tyumen","Q'Smolensk","Q'Kaluga","Q'Yaroslavl","Q'Tula","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Moscow","Q'Leningrad","Q'Novgorod","Q'Rostov","Q'Kiev","Q'Sverdlovsk","Q'","Q'Minsk","Q'Vladivostok","Q'Stalingrad",
+			"Q'Pskov","Q'Chelyabinsk","Q'Krasnoyarsk","Q'Tyumen","Q'Smolensk","Q'Kaluga","Q'Yaroslavl","Q'Tula","Q'Vladimir","Q'Novosibirsk",
+			"Q'Petrozavodsk","Q'Murmansk","Q'Tashkent","Q'","Q'Cheboksary","Khabarovsk","Q'Kamchatka","Q'","Q'Sochi","Q'Krasnodar",
+			"Q'Chukotka","Q'Magadan","Q'Irkutsk","Q'Omsk","Q'Almaty","Q'Sevastopol"]
 	}
 ]
