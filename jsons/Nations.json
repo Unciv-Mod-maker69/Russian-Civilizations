@@ -25,8 +25,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Moscow","Q'Leningrad","Q'Novgorod","Q'Rostov","Q'Kiev","Q'Sverdlovsk","Q'","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Moscow","Q'Leningrad","Q'Novgorod","Q'Rostov","Q'Kiev","Q'Sverdlovsk","Q'","Q'Almaty","Q'Vladivostok",
+			"Q'Taskent","Q'Chelyabinsk","Q'Krasnoyarsk","Q'Tyumen","Q'Smolensk","Q'Kaluga","Q'Yaroslavl","Q'Tula","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
