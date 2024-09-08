@@ -2,19 +2,19 @@
 	{
 		"name": "Soviet Union",
 		"leaderName": "Vladimir Lenin",
-		"adjective": ["alien"],
+		"adjective": ["Russian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Hello, if you not going to atack Soviet Union or Russian peoples then we might be allies",
+		"startIntroPart1": "",
 		"startIntroPart2": "Hello!",
 		
 		"declaringWar": "Your Governement did a lot against us and our peoples!",
 		"attacked": "You dont realise what mistake you done...",
-		"defeated": "We lost.But not our peoples.",
-		"introduction": ".",
+		"defeated": "We lost.But not our peoples morale.",
+		"introduction": "Hello, if you not going to atack Soviet Union or our peoples then we might be allies",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hello comrade.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
