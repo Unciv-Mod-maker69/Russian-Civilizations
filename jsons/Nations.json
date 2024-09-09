@@ -1509,3 +1509,15 @@
 	        "startbias": ["Forest"],
                 "prefferedvictorytype": "Cultural",
                 "personality": "Ulu-Muhammad",
+
+
+                "startIntroPart1": "Intro will be made later.",	
+                "startIntroPart2": "Yes intro will be made later.",
+
+
+		"declaringWar": "You did a mistake atacking the Khan and my peoples.You cant wil against our army.",
+		        "attacked": "You did a mistake atacking the Khan and my peoples.You cant win against our army!",
+		        "defeated": "I will give you anything just keep me alive.",
+		        "introduction":"Сәлам чит ил кешесе.",
+		        "tradeRequest": "Trust me, its worth it.",
+		
