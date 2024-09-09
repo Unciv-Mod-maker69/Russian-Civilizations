@@ -1503,8 +1503,9 @@
 		"cities": ["Jerusalem"]
 	},
         {
-                "name": "Tatarstan"
-                "adjective": ["Tatar"]
-	        "startbias": ["Forest"]
-                "prefferedvictorytype":
-]
+                "name": "Tatarstan",
+		"leadername": "Ulu-Muhammad",
+                "adjective": ["Tatar"],
+	        "startbias": ["Forest"],
+                "prefferedvictorytype": "Cultural",
+                "personality": "Ulu-Muhammad",
