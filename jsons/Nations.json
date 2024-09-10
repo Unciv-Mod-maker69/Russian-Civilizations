@@ -1520,4 +1520,37 @@
 		        "defeated": "I will give you anything just keep me alive.",
 		        "introduction":"Сәлам чит ил кешесе.",
 		        "tradeRequest": "Trust me, its worth it.",
+		     
+                "name": "Soviet Union",
+		"leaderName": "Vladimir Lenin",
+		"adjective": ["Russian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "Hello!",
+		
+		"declaringWar": "Your Governement did a lot against us and our peoples!",
+		"attacked": "You dont realise what mistake you done...",
+		"defeated": "We lost.But not our peoples morale.",
+		"introduction": "Hello, if you not going to atack Soviet Union or our peoples then we might be allies",
+		
+		"neutralHello": "Hello comrade.",
+		"hateHello": "We will defend from your agression at all costs if you atack.",
+
+		
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniquename":
+		"unique": "",
+		"cities": ["Moscow","Q'Leningrad","Q'Novgorod","Q'Rostov","Q'Kiev","Q'Sverdlovsk","Q'","Q'Minsk","Q'Vladivostok","Q'Stalingrad",
+			"Q'Pskov","Q'Chelyabinsk","Q'Krasnoyarsk","Q'Tyumen","Q'Smolensk","Q'Kaluga","Q'Yaroslavl","Q'Tula","Q'Vladimir","Q'Novosibirsk",
+			"Q'Petrozavodsk","Q'Murmansk","Q'Tashkent","Q'","Q'Cheboksary","Khabarovsk","Q'Kamchatka","Q'","Q'Sochi","Q'Krasnodar",
+			"Q'Chukotka","Q'Magadan","Q'Irkutsk","Q'Omsk","Q'Almaty","Q'Sevastopol"]
+	},
+        {
 		
