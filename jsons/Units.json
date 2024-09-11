@@ -1,18 +1,6 @@
 [
 	{
-		"name": "T-34",
-		"unitType": "Ranged",
-		"uniqueTo": "Soviet Union",
-		"replaces": "Tank",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		
 	}
 ]
 {
@@ -1744,3 +1732,20 @@
 		// costs 1500 in BNW
 	}
 ]
+                "name": "T-34",
+		"unitType": "Ranged",
+		"uniqueTo": "Soviet Union",
+		"replaces": "Tank",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"requiredResource": "Uranium",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+        },
+        {
+		"name": "Civil War Robber"
+		
