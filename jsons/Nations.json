@@ -20,7 +20,8 @@
 		        "defeated": "I will give you anything just keep me alive.",
 		        "introduction":"Сәлам чит ил кешесе.",
 		        "tradeRequest": "Trust me, its worth it.",
-		     
+	},
+        {     
                 "name": "Soviet Union",
 		"leaderName": "Vladimir Lenin",
 		"adjective": ["Russian"],
